@@ -38,3 +38,12 @@ npm/yarn run build
 _You can update the source structures to follow your patterns._
 
 _Note: Live-reload is supported_
+
+## ReactJS 18 log changes
+
+- New Root API
+- Automatic batching improvements for rendering
+- Strict Mode Changes
+- Open Source Session Replay
+- Selective hydration
+- SSR support
